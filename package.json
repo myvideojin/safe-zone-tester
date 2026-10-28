@@ -1,7 +1,7 @@
 {
   "name": "safe-zone-tester",
   "version": "1.0.0",
-  "description": "Free in-browser social media safe zone previewer for TikTok, Instagram Reels, and YouTube Shorts.",
+  "description": "Free in-browser social media safe zone preview tool for TikTok, Instagram Reels, and YouTube Shorts.",
   "type": "module",
   "scripts": {
     "dev": "vite",

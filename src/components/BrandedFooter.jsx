@@ -10,7 +10,7 @@ export default function BrandedFooter() {
           <span>100% Client-Side Privacy: Videos are processed in your browser and never leave your machine.</span>
         </div>
         <p className="flex items-center justify-center gap-1.5 text-gray-400">
-          Crafted with <Heart size={14} className="text-red-500 fill-red-500" /> by the team at{' '}
+          Crafted with <Heart size={14} className="text-red-500 fill-red-500" /> by the team at 
           <a href="https://videojin.com" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline font-bold">
             Videojin.com
           </a>
